@@ -38,8 +38,8 @@
                             "name": "Forge Version Manifest",
                             "type": "VersionManifest",
                             "artifact": {
-                                "size": 0,
-                                "MD5": "0",
+                                "size": 16629,
+                                "MD5": "164e2a500d5c3ba06ddb5da9d64c4f3d",
                                 "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/forge/forge-version.json"
                             }
                         }
