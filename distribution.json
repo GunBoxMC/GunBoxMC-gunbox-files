@@ -31,7 +31,19 @@
                         "size": 8835110,
                         "MD5": "237c5a17d941bfe793ff5780a4f330914d2c9f57",
                         "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.20/forge-1.20.1-47.4.20-installer.jar"
-                    }
+                    },
+                    "subModules": [
+                        {
+                            "id": "net.minecraftforge:forge:1.20.1-47.4.20:version-manifest",
+                            "name": "Forge Version Manifest",
+                            "type": "VersionManifest",
+                            "artifact": {
+                                "size": 0,
+                                "MD5": "0",
+                                "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.20/forge-1.20.1-47.4.20-installer.jar"
+                            }
+                        }
+                    ]
                 },
                 {
                     "id": "com.example:apocalypticarsenal:1.0.1",
