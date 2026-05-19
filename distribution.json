@@ -11,7 +11,7 @@
             "id": "GunBox",
             "name": "GunBox",
             "description": "Serveur GunBox",
-            "icon": "https://gunboxmc.github.io/gunbox-files/icon.png",
+            "icon": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/icon.png",
             "version": "1.0.0",
             "address": "gunbox.mine.fun",
             "minecraftVersion": "1.20.1",
@@ -30,7 +30,7 @@
                     "artifact": {
                         "size": 23028853,
                         "MD5": "0c3ec587af28e5a785c0b4a7b8a30f9a8f78f838",
-                        "url": "https://gunboxmc.github.io/gunbox-files/files/forge/forge-1.20.1-47.4.20.jar"
+                        "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/forge/forge-1.20.1-47.4.20.jar"
                     }
                 },
                 {
@@ -40,7 +40,7 @@
                     "artifact": {
                         "size": 3080423,
                         "MD5": "40f0651e7da145857ade6aca25051a7058c4dfc7",
-                        "url": "https://gunboxmc.github.io/gunbox-files/files/mods/apocalypticarsenal-1.0.1.jar"
+                        "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/mods/apocalypticarsenal-1.0.1.jar"
                     },
                     "required": {
                         "value": true,
@@ -54,7 +54,7 @@
                     "artifact": {
                         "size": 10560979,
                         "MD5": "0f05a1b716d093ce251521b21029775feb03be7b",
-                        "url": "https://gunboxmc.github.io/gunbox-files/files/mods/CustomNPCs-1.20.1-GBPort-Unofficial-20240709.jar"
+                        "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/mods/CustomNPCs-1.20.1-GBPort-Unofficial-20240709.jar"
                     },
                     "required": {
                         "value": true,
@@ -68,7 +68,7 @@
                     "artifact": {
                         "size": 4514323,
                         "MD5": "bc946eeaf7c3f4350a90b387be1a60801b365b8a",
-                        "url": "https://gunboxmc.github.io/gunbox-files/files/mods/DeltaForce%20Melee%20Pack-0.1.0.jar"
+                        "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/mods/DeltaForce%20Melee%20Pack-0.1.0.jar"
                     },
                     "required": {
                         "value": true,
@@ -82,7 +82,7 @@
                     "artifact": {
                         "size": 989964,
                         "MD5": "29dccfe1f985d3efdcd56d24ce4fe0ccc28cee7f",
-                        "url": "https://gunboxmc.github.io/gunbox-files/files/mods/geckolib-forge-1.20.1-4.4.4.jar"
+                        "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/mods/geckolib-forge-1.20.1-4.4.4.jar"
                     },
                     "required": {
                         "value": true,
@@ -96,7 +96,7 @@
                     "artifact": {
                         "size": 1845770,
                         "MD5": "e42c96cfaf22ed69d2886450f5fe43ab2978b69c",
-                        "url": "https://gunboxmc.github.io/gunbox-files/files/mods/gunbox-client-1.0.0.jar"
+                        "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/mods/gunbox-client-1.0.0.jar"
                     },
                     "required": {
                         "value": true,
@@ -110,7 +110,7 @@
                     "artifact": {
                         "size": 47190,
                         "MD5": "397459119448bea9d338c60afda0ce1ae15358c1",
-                        "url": "https://gunboxmc.github.io/gunbox-files/files/mods/hiddennames-1.20.1-1.0.6.jar"
+                        "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/mods/hiddennames-1.20.1-1.0.6.jar"
                     },
                     "required": {
                         "value": true,
@@ -124,7 +124,7 @@
                     "artifact": {
                         "size": 42492650,
                         "MD5": "3a3bd40a41cbabe8ae2b124ba6d53f54e42e330e",
-                        "url": "https://gunboxmc.github.io/gunbox-files/files/mods/lradd-1.20.1-0.3.0.jar"
+                        "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/mods/lradd-1.20.1-0.3.0.jar"
                     },
                     "required": {
                         "value": true,
@@ -138,7 +138,7 @@
                     "artifact": {
                         "size": 887099,
                         "MD5": "d6172c718e9d21d4445a7909f1d106adcaf1b3e7",
-                        "url": "https://gunboxmc.github.io/gunbox-files/files/mods/lrarmor-1.20.1-0.1.4.3.jar"
+                        "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/mods/lrarmor-1.20.1-0.1.4.3.jar"
                     },
                     "required": {
                         "value": true,
@@ -152,7 +152,7 @@
                     "artifact": {
                         "size": 5193935,
                         "MD5": "8635295da336878f6bb5d0a2ef2c1709200e43ec",
-                        "url": "https://gunboxmc.github.io/gunbox-files/files/mods/lrtactical-1.20.1-0.3.0.jar"
+                        "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/mods/lrtactical-1.20.1-0.3.0.jar"
                     },
                     "required": {
                         "value": true,
@@ -166,7 +166,7 @@
                     "artifact": {
                         "size": 57048436,
                         "MD5": "ebf489b85a0899b71e790cd5620b426b657b5a17",
-                        "url": "https://gunboxmc.github.io/gunbox-files/files/mods/tacz-1.20.1-1.1.8-release.jar"
+                        "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/mods/tacz-1.20.1-1.1.8-release.jar"
                     },
                     "required": {
                         "value": true,
@@ -180,7 +180,7 @@
                     "artifact": {
                         "size": 76711520,
                         "MD5": "404de685aa11cb10702f49797ef927c79fea04ec",
-                        "url": "https://gunboxmc.github.io/gunbox-files/files/mods/Zcraft_Decorations-1.0.4.jar"
+                        "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/mods/Zcraft_Decorations-1.0.4.jar"
                     },
                     "required": {
                         "value": true,
@@ -194,7 +194,7 @@
                     "artifact": {
                         "size": 2404078,
                         "MD5": "4c975d52a50ccc3e18653f5504f6b8f57716873e",
-                        "url": "https://gunboxmc.github.io/gunbox-files/files/tacz/BeansGunsVersion%201.0.4.zip",
+                        "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/tacz/BeansGunsVersion%201.0.4.zip",
                         "path": "tacz/BeansGunsVersion 1.0.4.zip"
                     },
                     "required": {
@@ -209,7 +209,7 @@
                     "artifact": {
                         "size": 2113749,
                         "MD5": "4113a0733958731bf7afc64aa5aa047bd4b812ed",
-                        "url": "https://gunboxmc.github.io/gunbox-files/files/tacz/big_gun_v1.4.1-1.1.4.zip",
+                        "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/tacz/big_gun_v1.4.1-1.1.4.zip",
                         "path": "tacz/big_gun_v1.4.1-1.1.4.zip"
                     },
                     "required": {
@@ -224,7 +224,7 @@
                     "artifact": {
                         "size": 2266890,
                         "MD5": "56718dd29bc92bd8508b3893ba01ae6df5f11654",
-                        "url": "https://gunboxmc.github.io/gunbox-files/files/tacz/ChaosCraft%27s%20Apocalyptic%20Arsenal.zip",
+                        "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/tacz/ChaosCraft%27s%20Apocalyptic%20Arsenal.zip",
                         "path": "tacz/ChaosCraft's Apocalyptic Arsenal.zip"
                     },
                     "required": {
@@ -239,7 +239,7 @@
                     "artifact": {
                         "size": 1040226,
                         "MD5": "1cc22dbce86cfbdae1c145d85938122567109d31",
-                        "url": "https://gunboxmc.github.io/gunbox-files/files/tacz/CS2%20Knifes%20Pack%20v1.0.1.zip",
+                        "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/tacz/CS2%20Knifes%20Pack%20v1.0.1.zip",
                         "path": "tacz/CS2 Knifes Pack v1.0.1.zip"
                     },
                     "required": {
@@ -254,7 +254,7 @@
                     "artifact": {
                         "size": 81143,
                         "MD5": "a6e1e68454f998318d1fa125fde68b386eb45e1c",
-                        "url": "https://gunboxmc.github.io/gunbox-files/files/tacz/endless_ammo_pack.zip",
+                        "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/tacz/endless_ammo_pack.zip",
                         "path": "tacz/endless_ammo_pack.zip"
                     },
                     "required": {
@@ -269,7 +269,7 @@
                     "artifact": {
                         "size": 1329419,
                         "MD5": "0f7d6b549ef93cd0a0402bbf5092c9219f5bda61",
-                        "url": "https://gunboxmc.github.io/gunbox-files/files/tacz/Golden-Zero-1.0.4A-hotfix.zip",
+                        "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/tacz/Golden-Zero-1.0.4A-hotfix.zip",
                         "path": "tacz/Golden-Zero-1.0.4A-hotfix.zip"
                     },
                     "required": {
@@ -284,7 +284,7 @@
                     "artifact": {
                         "size": 1475981,
                         "MD5": "c82da7874673e9ba9457233cacdf088c708b4361",
-                        "url": "https://gunboxmc.github.io/gunbox-files/files/tacz/gucci_attachement.zip",
+                        "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/tacz/gucci_attachement.zip",
                         "path": "tacz/gucci_attachement.zip"
                     },
                     "required": {
@@ -299,7 +299,7 @@
                     "artifact": {
                         "size": 5620568,
                         "MD5": "191dea9c31fd27815042fe75dd64e23d89bf860a",
-                        "url": "https://gunboxmc.github.io/gunbox-files/files/tacz/Knife.zip",
+                        "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/tacz/Knife.zip",
                         "path": "tacz/Knife.zip"
                     },
                     "required": {
@@ -314,7 +314,7 @@
                     "artifact": {
                         "size": 823529,
                         "MD5": "47fc63e87cf0de890a8b37d9c35c1215dedaab15",
-                        "url": "https://gunboxmc.github.io/gunbox-files/files/tacz/knives_and_classics.zip",
+                        "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/tacz/knives_and_classics.zip",
                         "path": "tacz/knives_and_classics.zip"
                     },
                     "required": {
@@ -329,7 +329,7 @@
                     "artifact": {
                         "size": 41968227,
                         "MD5": "1f9b739498bf7dd5ee7908647db47b16d6639398",
-                        "url": "https://gunboxmc.github.io/gunbox-files/files/tacz/lradd_default_gun.zip",
+                        "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/tacz/lradd_default_gun.zip",
                         "path": "tacz/lradd_default_gun.zip"
                     },
                     "required": {
@@ -344,7 +344,7 @@
                     "artifact": {
                         "size": 25610295,
                         "MD5": "16bf8fe082e7ee5117151daacd926b61b3f18cdc",
-                        "url": "https://gunboxmc.github.io/gunbox-files/files/tacz/maxstuff.zip",
+                        "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/tacz/maxstuff.zip",
                         "path": "tacz/maxstuff.zip"
                     },
                     "required": {
@@ -359,7 +359,7 @@
                     "artifact": {
                         "size": 50855853,
                         "MD5": "8a834e95402cd68632bb914df05d41abcd76e3f7",
-                        "url": "https://gunboxmc.github.io/gunbox-files/files/tacz/tacz_default_gun.zip",
+                        "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/tacz/tacz_default_gun.zip",
                         "path": "tacz/tacz_default_gun.zip"
                     },
                     "required": {
