@@ -42,6 +42,86 @@
                                 "MD5": "164e2a500d5c3ba06ddb5da9d64c4f3d",
                                 "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/forge/forge-version.json"
                             }
+                        },
+                        {
+                            "id": "cpw.mods:bootstraplauncher:1.1.2",
+                            "name": "Bootstrap Launcher",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 8284,
+                                "MD5": "0",
+                                "url": "https://maven.minecraftforge.net/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
+                            }
+                        },
+                        {
+                            "id": "cpw.mods:securejarhandler:2.1.10",
+                            "name": "Secure Jar Handler",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 88749,
+                                "MD5": "0",
+                                "url": "https://maven.minecraftforge.net/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
+                            }
+                        },
+                        {
+                            "id": "net.minecraftforge:JarJarFileSystems:0.3.19",
+                            "name": "JarJar File Systems",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 32195,
+                                "MD5": "0",
+                                "url": "https://maven.minecraftforge.net/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
+                            }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm:9.9.1",
+                            "name": "ASM",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 126252,
+                                "MD5": "0",
+                                "url": "https://maven.minecraftforge.net/org/ow2/asm/asm/9.9.1/asm-9.9.1.jar"
+                            }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm-commons:9.9.1",
+                            "name": "ASM Commons",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 75010,
+                                "MD5": "0",
+                                "url": "https://maven.minecraftforge.net/org/ow2/asm/asm-commons/9.9.1/asm-commons-9.9.1.jar"
+                            }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm-tree:9.9.1",
+                            "name": "ASM Tree",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 51963,
+                                "MD5": "0",
+                                "url": "https://maven.minecraftforge.net/org/ow2/asm/asm-tree/9.9.1/asm-tree-9.9.1.jar"
+                            }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm-util:9.9.1",
+                            "name": "ASM Util",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 94643,
+                                "MD5": "0",
+                                "url": "https://maven.minecraftforge.net/org/ow2/asm/asm-util/9.9.1/asm-util-9.9.1.jar"
+                            }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm-analysis:9.9.1",
+                            "name": "ASM Analysis",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 35170,
+                                "MD5": "0",
+                                "url": "https://maven.minecraftforge.net/org/ow2/asm/asm-analysis/9.9.1/asm-analysis-9.9.1.jar"
+                            }
                         }
                     ]
                 },
