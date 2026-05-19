@@ -40,7 +40,7 @@
                             "artifact": {
                                 "size": 0,
                                 "MD5": "0",
-                                "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.20/forge-1.20.1-47.4.20-universal.json"
+                                "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/forge/forge-version.json"
                             }
                         }
                     ]
