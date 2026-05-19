@@ -30,7 +30,7 @@
                     "artifact": {
                         "size": 8835110,
                         "MD5": "237c5a17d941bfe793ff5780a4f330914d2c9f57",
-                        "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/forge/forge-1.20.1-47.4.20-installer.jar"
+                        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.20/forge-1.20.1-47.4.20-installer.jar"
                     }
                 },
                 {
