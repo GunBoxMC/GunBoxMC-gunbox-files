@@ -337,6 +337,39 @@
                                 "MD5": "0",
                                 "url": "https://maven.minecraftforge.net/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
                             }
+                        },
+                        {
+                            "id": "net.minecraft:client:1.20.1-20230612.114412-srg",
+                            "name": "Minecraft Client SRG",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 18842082,
+                                "MD5": "0",
+                                "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/forge/client-1.20.1-20230612.114412-srg.jar",
+                                "path": "net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
+                            }
+                        },
+                        {
+                            "id": "net.minecraft:client:1.20.1-20230612.114412-extra",
+                            "name": "Minecraft Client Extra",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 10436626,
+                                "MD5": "0",
+                                "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/forge/client-1.20.1-20230612.114412-extra.jar",
+                                "path": "net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
+                            }
+                        },
+                        {
+                            "id": "net.minecraftforge:forge:1.20.1-47.4.20-client",
+                            "name": "Forge Client",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 4848917,
+                                "MD5": "0",
+                                "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/forge/forge-1.20.1-47.4.20-client.jar",
+                                "path": "net/minecraftforge/forge/1.20.1-47.4.20/forge-1.20.1-47.4.20-client.jar"
+                            }
                         }
                     ]
                 },
