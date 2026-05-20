@@ -339,6 +339,61 @@
                             }
                         },
                         {
+                            "id": "net.minecraftforge:fmlcore:1.20.1-47.4.20",
+                            "name": "FML Core",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 118909,
+                                "MD5": "0",
+                                "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/forge/fmlcore-1.20.1-47.4.20.jar",
+                                "path": "net/minecraftforge/fmlcore/1.20.1-47.4.20/fmlcore-1.20.1-47.4.20.jar"
+                            }
+                        },
+                        {
+                            "id": "net.minecraftforge:javafmllanguage:1.20.1-47.4.20",
+                            "name": "Java FML Language",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 16851,
+                                "MD5": "0",
+                                "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/forge/javafmllanguage-1.20.1-47.4.20.jar",
+                                "path": "net/minecraftforge/javafmllanguage/1.20.1-47.4.20/javafmllanguage-1.20.1-47.4.20.jar"
+                            }
+                        },
+                        {
+                            "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.4.20",
+                            "name": "Low Code Language",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 7394,
+                                "MD5": "0",
+                                "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/forge/lowcodelanguage-1.20.1-47.4.20.jar",
+                                "path": "net/minecraftforge/lowcodelanguage/1.20.1-47.4.20/lowcodelanguage-1.20.1-47.4.20.jar"
+                            }
+                        },
+                        {
+                            "id": "net.minecraftforge:mclanguage:1.20.1-47.4.20",
+                            "name": "MC Language",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 4994,
+                                "MD5": "0",
+                                "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/forge/mclanguage-1.20.1-47.4.20.jar",
+                                "path": "net/minecraftforge/mclanguage/1.20.1-47.4.20/mclanguage-1.20.1-47.4.20.jar"
+                            }
+                        },
+                        {
+                            "id": "net.minecraftforge:forge:1.20.1-47.4.20-universal",
+                            "name": "Forge Universal",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 2507935,
+                                "MD5": "0",
+                                "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/forge/forge-1.20.1-47.4.20-universal.jar",
+                                "path": "net/minecraftforge/forge/1.20.1-47.4.20/forge-1.20.1-47.4.20-universal.jar"
+                            }
+                        },
+                        {
                             "id": "net.minecraft:client:1.20.1-20230612.114412-srg",
                             "name": "Minecraft Client SRG",
                             "type": "Library",
@@ -382,10 +437,7 @@
                         "MD5": "40f0651e7da145857ade6aca25051a7058c4dfc7",
                         "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/mods/apocalypticarsenal-1.0.1.jar"
                     },
-                    "required": {
-                        "value": true,
-                        "def": true
-                    }
+                    "required": { "value": true, "def": true }
                 },
                 {
                     "id": "com.example:customnpcs:1.20.1",
@@ -396,10 +448,7 @@
                         "MD5": "0f05a1b716d093ce251521b21029775feb03be7b",
                         "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/mods/CustomNPCs-1.20.1-GBPort-Unofficial-20240709.jar"
                     },
-                    "required": {
-                        "value": true,
-                        "def": true
-                    }
+                    "required": { "value": true, "def": true }
                 },
                 {
                     "id": "com.example:deltaforce:0.1.0",
@@ -410,10 +459,7 @@
                         "MD5": "bc946eeaf7c3f4350a90b387be1a60801b365b8a",
                         "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/mods/DeltaForce%20Melee%20Pack-0.1.0.jar"
                     },
-                    "required": {
-                        "value": true,
-                        "def": true
-                    }
+                    "required": { "value": true, "def": true }
                 },
                 {
                     "id": "software.bernie.geckolib:geckolib-forge:1.20.1-4.4.4",
@@ -424,10 +470,7 @@
                         "MD5": "29dccfe1f985d3efdcd56d24ce4fe0ccc28cee7f",
                         "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/mods/geckolib-forge-1.20.1-4.4.4.jar"
                     },
-                    "required": {
-                        "value": true,
-                        "def": true
-                    }
+                    "required": { "value": true, "def": true }
                 },
                 {
                     "id": "com.gunbox:gunbox-client:1.0.0",
@@ -438,10 +481,7 @@
                         "MD5": "e42c96cfaf22ed69d2886450f5fe43ab2978b69c",
                         "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/mods/gunbox-client-1.0.0.jar"
                     },
-                    "required": {
-                        "value": true,
-                        "def": true
-                    }
+                    "required": { "value": true, "def": true }
                 },
                 {
                     "id": "com.example:hiddennames:1.20.1-1.0.6",
@@ -452,10 +492,7 @@
                         "MD5": "397459119448bea9d338c60afda0ce1ae15358c1",
                         "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/mods/hiddennames-1.20.1-1.0.6.jar"
                     },
-                    "required": {
-                        "value": true,
-                        "def": true
-                    }
+                    "required": { "value": true, "def": true }
                 },
                 {
                     "id": "com.example:lradd:1.20.1-0.3.0",
@@ -466,10 +503,7 @@
                         "MD5": "3a3bd40a41cbabe8ae2b124ba6d53f54e42e330e",
                         "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/mods/lradd-1.20.1-0.3.0.jar"
                     },
-                    "required": {
-                        "value": true,
-                        "def": true
-                    }
+                    "required": { "value": true, "def": true }
                 },
                 {
                     "id": "com.example:lrarmor:1.20.1-0.1.4.3",
@@ -480,10 +514,7 @@
                         "MD5": "d6172c718e9d21d4445a7909f1d106adcaf1b3e7",
                         "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/mods/lrarmor-1.20.1-0.1.4.3.jar"
                     },
-                    "required": {
-                        "value": true,
-                        "def": true
-                    }
+                    "required": { "value": true, "def": true }
                 },
                 {
                     "id": "com.example:lrtactical:1.20.1-0.3.0",
@@ -494,10 +525,7 @@
                         "MD5": "8635295da336878f6bb5d0a2ef2c1709200e43ec",
                         "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/mods/lrtactical-1.20.1-0.3.0.jar"
                     },
-                    "required": {
-                        "value": true,
-                        "def": true
-                    }
+                    "required": { "value": true, "def": true }
                 },
                 {
                     "id": "com.tacz:tacz:1.20.1-1.1.8",
@@ -508,10 +536,7 @@
                         "MD5": "ebf489b85a0899b71e790cd5620b426b657b5a17",
                         "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/mods/tacz-1.20.1-1.1.8-release.jar"
                     },
-                    "required": {
-                        "value": true,
-                        "def": true
-                    }
+                    "required": { "value": true, "def": true }
                 },
                 {
                     "id": "com.example:zcraft-decorations:1.0.4",
@@ -522,10 +547,7 @@
                         "MD5": "404de685aa11cb10702f49797ef927c79fea04ec",
                         "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/mods/Zcraft_Decorations-1.0.4.jar"
                     },
-                    "required": {
-                        "value": true,
-                        "def": true
-                    }
+                    "required": { "value": true, "def": true }
                 },
                 {
                     "id": "com.gunbox.tacz:beans-guns:1.0.4",
@@ -537,10 +559,7 @@
                         "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/tacz/BeansGunsVersion%201.0.4.zip",
                         "path": "tacz/BeansGunsVersion 1.0.4.zip"
                     },
-                    "required": {
-                        "value": true,
-                        "def": true
-                    }
+                    "required": { "value": true, "def": true }
                 },
                 {
                     "id": "com.gunbox.tacz:big-gun:1.4.1",
@@ -552,10 +571,7 @@
                         "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/tacz/big_gun_v1.4.1-1.1.4.zip",
                         "path": "tacz/big_gun_v1.4.1-1.1.4.zip"
                     },
-                    "required": {
-                        "value": true,
-                        "def": true
-                    }
+                    "required": { "value": true, "def": true }
                 },
                 {
                     "id": "com.gunbox.tacz:chaoscraft-arsenal:1.0.0",
@@ -567,10 +583,7 @@
                         "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/tacz/ChaosCraft%27s%20Apocalyptic%20Arsenal.zip",
                         "path": "tacz/ChaosCraft's Apocalyptic Arsenal.zip"
                     },
-                    "required": {
-                        "value": true,
-                        "def": true
-                    }
+                    "required": { "value": true, "def": true }
                 },
                 {
                     "id": "com.gunbox.tacz:cs2-knives:1.0.1",
@@ -582,10 +595,7 @@
                         "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/tacz/CS2%20Knifes%20Pack%20v1.0.1.zip",
                         "path": "tacz/CS2 Knifes Pack v1.0.1.zip"
                     },
-                    "required": {
-                        "value": true,
-                        "def": true
-                    }
+                    "required": { "value": true, "def": true }
                 },
                 {
                     "id": "com.gunbox.tacz:endless-ammo:1.0.0",
@@ -597,10 +607,7 @@
                         "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/tacz/endless_ammo_pack.zip",
                         "path": "tacz/endless_ammo_pack.zip"
                     },
-                    "required": {
-                        "value": true,
-                        "def": true
-                    }
+                    "required": { "value": true, "def": true }
                 },
                 {
                     "id": "com.gunbox.tacz:golden-zero:1.0.4",
@@ -612,10 +619,7 @@
                         "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/tacz/Golden-Zero-1.0.4A-hotfix.zip",
                         "path": "tacz/Golden-Zero-1.0.4A-hotfix.zip"
                     },
-                    "required": {
-                        "value": true,
-                        "def": true
-                    }
+                    "required": { "value": true, "def": true }
                 },
                 {
                     "id": "com.gunbox.tacz:gucci-attachment:1.0.0",
@@ -627,10 +631,7 @@
                         "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/tacz/gucci_attachement.zip",
                         "path": "tacz/gucci_attachement.zip"
                     },
-                    "required": {
-                        "value": true,
-                        "def": true
-                    }
+                    "required": { "value": true, "def": true }
                 },
                 {
                     "id": "com.gunbox.tacz:knife:1.0.0",
@@ -642,10 +643,7 @@
                         "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/tacz/Knife.zip",
                         "path": "tacz/Knife.zip"
                     },
-                    "required": {
-                        "value": true,
-                        "def": true
-                    }
+                    "required": { "value": true, "def": true }
                 },
                 {
                     "id": "com.gunbox.tacz:knives-classics:1.0.0",
@@ -657,10 +655,7 @@
                         "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/tacz/knives_and_classics.zip",
                         "path": "tacz/knives_and_classics.zip"
                     },
-                    "required": {
-                        "value": true,
-                        "def": true
-                    }
+                    "required": { "value": true, "def": true }
                 },
                 {
                     "id": "com.gunbox.tacz:lradd-default:1.0.0",
@@ -672,10 +667,7 @@
                         "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/tacz/lradd_default_gun.zip",
                         "path": "tacz/lradd_default_gun.zip"
                     },
-                    "required": {
-                        "value": true,
-                        "def": true
-                    }
+                    "required": { "value": true, "def": true }
                 },
                 {
                     "id": "com.gunbox.tacz:maxstuff:1.0.0",
@@ -687,10 +679,7 @@
                         "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/tacz/maxstuff.zip",
                         "path": "tacz/maxstuff.zip"
                     },
-                    "required": {
-                        "value": true,
-                        "def": true
-                    }
+                    "required": { "value": true, "def": true }
                 },
                 {
                     "id": "com.gunbox.tacz:tacz-default:1.0.0",
@@ -702,10 +691,7 @@
                         "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/tacz/tacz_default_gun.zip",
                         "path": "tacz/tacz_default_gun.zip"
                     },
-                    "required": {
-                        "value": true,
-                        "def": true
-                    }
+                    "required": { "value": true, "def": true }
                 }
             ]
         }
