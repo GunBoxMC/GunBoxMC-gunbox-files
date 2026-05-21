@@ -473,13 +473,13 @@
                     "required": { "value": true, "def": true }
                 },
                 {
-                    "id": "com.gunbox:gunbox-client:1.0.1",
+                    "id": "com.gunbox:gunbox-client:1.0.2",
                     "name": "GunBox Client",
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 1845775,
-                        "MD5": "0eb159cbb74f5089c092a22cf3a60cb2",
-                        "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/mods/gunbox-client-1.0.1.jar"
+                        "MD5": "6e96a699ba022f2a33fcce0b1d78a3ee",
+                        "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/mods/gunbox-client-1.0.2.jar"
                     },
                     "required": {
                         "value": true,
