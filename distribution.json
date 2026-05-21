@@ -498,17 +498,6 @@
                     "required": { "value": true, "def": true }
                 },
                 {
-                    "id": "com.example:lradd:1.20.1-0.3.0",
-                    "name": "LRADD",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 42492650,
-                        "MD5": "3a3bd40a41cbabe8ae2b124ba6d53f54e42e330e",
-                        "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/mods/lradd-1.20.1-0.3.0.jar"
-                    },
-                    "required": { "value": true, "def": true }
-                },
-                {
                     "id": "com.example:lrarmor:1.20.1-0.1.4.3",
                     "name": "LR Armor",
                     "type": "ForgeMod",
@@ -657,18 +646,6 @@
                         "MD5": "47fc63e87cf0de890a8b37d9c35c1215dedaab15",
                         "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/tacz/knives_and_classics.zip",
                         "path": "tacz/knives_and_classics.zip"
-                    },
-                    "required": { "value": true, "def": true }
-                },
-                {
-                    "id": "com.gunbox.tacz:lradd-default:1.0.0",
-                    "name": "LRADD Default Gun",
-                    "type": "File",
-                    "artifact": {
-                        "size": 41968227,
-                        "MD5": "1f9b739498bf7dd5ee7908647db47b16d6639398",
-                        "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/tacz/lradd_default_gun.zip",
-                        "path": "tacz/lradd_default_gun.zip"
                     },
                     "required": { "value": true, "def": true }
                 },
