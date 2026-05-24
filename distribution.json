@@ -695,6 +695,18 @@
                         "path": "tacz/tacz_default_gun.zip"
                     },
                     "required": { "value": true, "def": true }
+                },
+                {
+                    "id": "com.gunbox:resourcepack:1.0.0",
+                    "name": "GunBox Resource Pack",
+                    "type": "File",
+                    "artifact": {
+                        "size": 405038,
+                        "MD5": "B1EBBDB6E7AAE2482493FFBBF7F5A8C1",
+                        "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/resourcepack/gunbox-rs.zip",
+                        "path": "resourcepacks/gunbox-rs.zip"
+                    },
+                    "required": { "value": true, "def": true }
                 }
             ]
         }
