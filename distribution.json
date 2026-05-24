@@ -724,7 +724,7 @@
                     "name": "Resource Pack Overrides Config",
                     "type": "File",
                     "artifact": {
-                        "size": 44,
+                        "size": 57,
                         "MD5": "0",
                         "url": "https://gunboxmc.github.io/GunBoxMC-gunbox-files/files/config/resourcepackoverrides.json",
                         "path": "config/resourcepackoverrides.json"
